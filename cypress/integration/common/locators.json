@@ -1,0 +1,14 @@
+{
+    "TITLE": "div.greenLogo",
+    "SEARCH_FIELD": "form.search-form",
+    "ADD_BUTTON": ".product-action>button",
+    "PRODUCT_TITLE": "h4.product-name",
+    "ALL_PRODUCTS": "div.products .product",
+    "EMPTY_CANVAS":"div.no-results",
+    "ALL_PRODUCTS_TITLES": "div.product>h4",
+    "AUTOMATIN_PRACTICE_TITLE": "h1",
+    "AUTOMATIN_PRACTICE_FIRST_CHECKBOX": "#checkBoxOption1",
+    "SHOW_BUTTON": "#show-textbox",
+    "HIDE_BUTTON": "#hide-textbox",
+    "INPUT_FIELD": "#displayed-text"
+}
