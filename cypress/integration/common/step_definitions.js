@@ -71,7 +71,6 @@ Given(/the field "(.*)" contains the list( \[(.*)\])?/, (element, listValues) =>
 Given(/the field "(.*)" is (visible|not visible)$/, (element, condition) => {
 
     const mainElement = selectors[element];
-
     if (condition === "visible") {
         condition = "be"
     }
